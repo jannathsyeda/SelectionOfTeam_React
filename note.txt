@@ -1,0 +1,9 @@
+mockaro(https://www.mockaroo.com/),fakejson, fake json api(pricing)
+
+free image  hosting searching
+ImgBB -upoload Image 
+
+search any image then  open in new tab and copy url ,then paste it in your json file
+
+
+34_5_7 netlify
