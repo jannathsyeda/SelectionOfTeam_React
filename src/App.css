@@ -28,6 +28,17 @@
   color: #61dafb;
 }
 
+.team-container{
+  display: flex;
+ 
+}
+.players-added{
+  border-left:1px solid tomato;
+  border:5px  gray;
+  border-style: solid;
+  width: 100%;
+
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +47,4 @@
     transform: rotate(360deg);
   }
 }
+
